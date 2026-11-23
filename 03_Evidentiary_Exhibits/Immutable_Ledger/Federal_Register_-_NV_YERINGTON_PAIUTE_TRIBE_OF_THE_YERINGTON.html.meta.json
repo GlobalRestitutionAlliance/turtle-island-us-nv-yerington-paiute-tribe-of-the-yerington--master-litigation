@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=NV+YERINGTON+PAIUTE+TRIBE+OF+THE+YERINGTON+",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=NV+YERINGTON+PAIUTE+TRIBE+OF+THE+YERINGTON+",
+  "title": "Federal Register - NV YERINGTON PAIUTE TRIBE OF THE YERINGTON ",
+  "fetched_at": "2026-11-23T18:19:42.014822Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 204950,
+  "sha256": "8ca626657b0748c3c30340903b549db625b7abafd342a20f0e66b84b8321416e",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
